@@ -2,7 +2,7 @@
 
 ##  AIM:
 
-To design and simulate automatic light controller using LDR and Arduino UNO controller in proteus.
+To design and simulate automatic light controller using LDR and Arduino UNO controller in proteus
 
 ## Software required:
 Arduino IDE </br>
